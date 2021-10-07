@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Rose Seoyoung Chang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Lab Manager/Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
