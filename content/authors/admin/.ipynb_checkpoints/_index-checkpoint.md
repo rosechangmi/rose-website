@@ -9,7 +9,7 @@ superuser: true
 role: Lab Manager/Research Assistant
 
 # Interests to show in About widget
-interests:
+research interests:
 - Eating Disorders
 - Anxiety Disorders
 - Stress
