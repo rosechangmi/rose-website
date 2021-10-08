@@ -57,4 +57,4 @@ She is interested in understanding the underlying mechanisms of psychiatric diso
 
 In her free time, Rose enjoys weight lifting and listening to jazz.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
