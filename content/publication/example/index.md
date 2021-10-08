@@ -19,17 +19,6 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- "First author"
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- "Corresponding autor"
 
 date: "2021-09-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.appet.2021.105707"
