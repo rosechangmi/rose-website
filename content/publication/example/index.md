@@ -15,7 +15,7 @@ authors:
 - Jill M. Goldstein
 - Daniel G. Dillon
 - Diego A. Pizzagalli
-- Laura M.Holsen
+- Laura M. Holsen
 
 # Author notes (optional)
 author_notes: []
@@ -34,16 +34,17 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Appetite*
-publication_short: In *Appetite*
 
 abstract: >-
-Background: Emotional eating has emerged as a contributing factor to overeating, potentially leading to obesity or disordered eating behaviors. However, the underlying biological mechanisms related to emotional eating remain unclear. The present study examined emotional, hormonal, and neural alterations elicited by an acute laboratory stressor in individuals with and without emotional eating.
+    Methods: Emotional (n = 13) and non-emotional eaters (n = 15) completed two main study visits, one week apart: one visit included a Stress version and the other a No-stress version of the Maastricht Acute Stress Task (MAST). Immediately pre- and post-MAST, blood was drawn for serum cortisol and participants rated their anxiety level. After the MAST, participants completed a Food Incentive Delay (FID) task during functional magnetic resonance imaging (fMRI), followed by an ad libitum snack period.
+    
+    Background: Emotional eating has emerged as a contributing factor to overeating, potentially leading to obesity or disordered eating behaviors. However, the underlying biological mechanisms related to emotional eating remain unclear. The present study examined emotional, hormonal, and neural alterations elicited by an acute laboratory stressor in individuals with and without emotional eating.
+    
+    Methods: Emotional (n = 13) and non-emotional eaters (n = 15) completed two main study visits, one week apart: one visit included a Stress version and the other a No-stress version of the Maastricht Acute Stress Task (MAST). Immediately pre- and post-MAST, blood was drawn for serum cortisol and participants rated their anxiety level. After the MAST, participants completed a Food Incentive Delay (FID) task during functional magnetic resonance imaging (fMRI), followed by an ad libitum snack period.
 
-Methods: Emotional (n = 13) and non-emotional eaters (n = 15) completed two main study visits, one week apart: one visit included a Stress version and the other a No-stress version of the Maastricht Acute Stress Task (MAST). Immediately pre- and post-MAST, blood was drawn for serum cortisol and participants rated their anxiety level. After the MAST, participants completed a Food Incentive Delay (FID) task during functional magnetic resonance imaging (fMRI), followed by an ad libitum snack period.
+    Results: Emotional eaters exhibited elevated anxiety (p = 0.037) and cortisol (p = 0.001) in response to the Stress MAST. There were no changes in anxiety or cortisol among non-emotional eaters in response to the Stress MAST or in either group in response to the No-stress MAST. In response to the Stress MAST, emotional eaters exhibited reduced activation during anticipation of food reward in mesolimbic reward regions (caudate: p = 0.014, nucleus accumbens: p = 0.022, putamen: p = 0.013), compared to non-emotional eaters. Groups did not differ in snack consumption.
 
-Results: Emotional eaters exhibited elevated anxiety (p = 0.037) and cortisol (p = 0.001) in response to the Stress MAST. There were no changes in anxiety or cortisol among non-emotional eaters in response to the Stress MAST or in either group in response to the No-stress MAST. In response to the Stress MAST, emotional eaters exhibited reduced activation during anticipation of food reward in mesolimbic reward regions (caudate: p = 0.014, nucleus accumbens: p = 0.022, putamen: p = 0.013), compared to non-emotional eaters. Groups did not differ in snack consumption.
-
-Conclusions: These data indicate disrupted neuroendocrine and neural responsivity to psychosocial stress amongst otherwise-healthy emotional eaters, who demonstrated hyperactive HPA-axis response coupled with hypoactivation in reward circuitry. Differential responsivity to stress may represent a risk factor in the development of maladaptive eating behaviors.
+    Conclusions: These data indicate disrupted neuroendocrine and neural responsivity to psychosocial stress amongst otherwise-healthy emotional eaters, who demonstrated hyperactive HPA-axis response coupled with hypoactivation in reward circuitry. Differential responsivity to stress may represent a risk factor in the development of maladaptive eating behaviors.
 
 # Summary. An optional shortened abstract.
 summary: In this paper, we implemented a robust psychosocial stressor in individuals scoring high compared to those scoring low on a validated measure of emotional eating to investigate the effects of acute stress on anxiety rating, serum cortisol, and blood-oxygen-level-dependent (BOLD) response in mesolimbic regions during a food incentive delay task using functional MRI (fMRI).
