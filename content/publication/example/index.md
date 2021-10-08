@@ -18,7 +18,7 @@ authors:
 - Laura M.Holsen
 
 # Author notes (optional)
-author_notes:
+author_notes: []
 
 date: "2021-09-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.appet.2021.105707"
@@ -36,7 +36,7 @@ publication_types: ["2"]
 publication: In *Appetite*
 publication_short: In *Appetite*
 
-abstract: 
+abstract: >-
 Background: Emotional eating has emerged as a contributing factor to overeating, potentially leading to obesity or disordered eating behaviors. However, the underlying biological mechanisms related to emotional eating remain unclear. The present study examined emotional, hormonal, and neural alterations elicited by an acute laboratory stressor in individuals with and without emotional eating.
 
 Methods: Emotional (n = 13) and non-emotional eaters (n = 15) completed two main study visits, one week apart: one visit included a Stress version and the other a No-stress version of the Maastricht Acute Stress Task (MAST). Immediately pre- and post-MAST, blood was drawn for serum cortisol and participants rated their anxiety level. After the MAST, participants completed a Food Incentive Delay (FID) task during functional magnetic resonance imaging (fMRI), followed by an ad libitum snack period.
@@ -70,9 +70,10 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ""
   focal_point: ""
   preview_only: false
+  filename: featured.jpg
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
