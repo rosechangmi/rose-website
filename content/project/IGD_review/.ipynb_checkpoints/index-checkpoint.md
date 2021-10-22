@@ -1,8 +1,8 @@
 ---
-title: Gaming disorder review
+title: Gaming Disorder Review
 summary: Poster presentation in 07/2021 at the ICP2020
 tags:
-- Lab meeting
+- Conference
 date: "2021-04-23T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
