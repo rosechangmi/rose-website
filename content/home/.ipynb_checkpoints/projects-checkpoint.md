@@ -27,8 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Lab meeting
+    tag: Lab meeting
+  - name: Conference
+    tag: Conference
   - name: Other
     tag: Demo
 
