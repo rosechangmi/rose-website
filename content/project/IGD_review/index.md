@@ -1,6 +1,6 @@
 ---
 title: Gaming disorder review
-summary: 04/23/2021 Lab meeting presentation
+summary: Poster presentation in 07/2021 at the ICP2020
 tags:
 - Lab meeting
 date: "2021-04-23T00:00:00Z"
@@ -28,4 +28,4 @@ url_video: ""
 
 I presented on the topic of 'Biopsychosocial Factors of Gaming Disorder: A Systematic Review' at the (virtual) 32nd International Congress of Psychology conference held in July 2021. We have systematically and methodologically reviewed all available publications identifying biopsychosocial evidence of gaming disorder.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/poster.pdf" "newtab" >}}slides{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/poster.pdf" "newtab" >}}poster{{< /staticref >}}.
