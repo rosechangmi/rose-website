@@ -1,6 +1,6 @@
 ---
-title: 04/23/2021 Lab meeting
-summary: Presentation on biopsychosocial factors of gaming disorder: qualitative review.
+title: Gaming disorder review
+summary: 04/23/2021 Lab meeting presentation
 tags:
 - Deep Learning
 date: "2021-04-23T00:00:00Z"
