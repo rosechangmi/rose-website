@@ -26,6 +26,6 @@ url_video: ""
 # slides = ""
 ---
 
-This was a presentation on the preliminary results of the systematic review project, reviewing available publications identifying biopsychosocial evidence of gaming disorder.
+I presented on the topic of 'Biopsychosocial Factors of Gaming Disorder: A Systematic Review' at the (virtual) 32nd International Congress of Psychology conference held in July 2021. We have systematically and methodologically reviewed all available publications identifying biopsychosocial evidence of gaming disorder.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/04232021_GDreview_presentation.pdf" "newtab" >}}slides{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/poster.pdf" "newtab" >}}slides{{< /staticref >}}.
