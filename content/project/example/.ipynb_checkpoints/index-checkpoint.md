@@ -23,7 +23,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = ""
+# slides = ""
 ---
 
 This was a presentation on the preliminary results of the systematic review project, reviewing available publications identifying biopsychosocial evidence of gaming disorder.
