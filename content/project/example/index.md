@@ -1,5 +1,5 @@
 ---
-title: Biopsychosocial Factors of Gaming Disorder: Qualitative Review
+title: Internal Project
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
