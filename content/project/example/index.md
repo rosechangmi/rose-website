@@ -27,3 +27,5 @@ url_video: ""
 ---
 
 This was a presentation on the preliminary results of the systematic review project, reviewing available publications identifying biopsychosocial evidence of gaming disorder.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/04232021_GDreview_presentation.pdf" "newtab" >}}slides{{< /staticref >}}.
