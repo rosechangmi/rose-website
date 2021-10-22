@@ -2,7 +2,7 @@
 title: Gaming disorder review
 summary: 04/23/2021 Lab meeting presentation
 tags:
-- '*'
+- Demo
 date: "2021-04-23T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -12,11 +12,7 @@ image:
   caption: Photo provided by Unsplash
   focal_point: Smart
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+links: ""
 url_code: ""
 url_pdf: ""
 url_slides: ""
