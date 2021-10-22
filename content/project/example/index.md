@@ -2,7 +2,7 @@
 title: Gaming disorder review
 summary: 04/23/2021 Lab meeting presentation
 tags:
-- Demo
+- Deep Learning
 date: "2021-04-23T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -23,7 +23,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = ""
+slides: example
 ---
 
 This was a presentation on the preliminary results of the systematic review project, reviewing available publications identifying biopsychosocial evidence of gaming disorder.
