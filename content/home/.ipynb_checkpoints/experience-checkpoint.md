@@ -38,6 +38,14 @@ experience:
     date_start: '2020-09-01'
     date_end: ''
     
+  - title: Assistant Manager
+    company: Culcom
+    company_url: 'http://culcom.co.kr/'
+    company_logo: culcom_logo
+    location: Seoul, Korea
+    date_start: '2021-11-17'
+    date_end: ''
+    
   - title: Clinical Research Assistant
     company: Holsen Lab
     company_url: 'https://holsenlab.bwh.harvard.edu/'
