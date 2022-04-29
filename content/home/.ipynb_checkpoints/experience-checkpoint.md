@@ -42,7 +42,7 @@ experience:
     company_logo: ccs_logo
     location: Seoul, Korea
     date_start: '2020-09-01'
-    date_end: ''
+    date_end: '2022-02-28'
     
   - title: Assistant Manager
     company: Culcom
@@ -50,7 +50,7 @@ experience:
     company_logo: culcom_logo
     location: Seoul, Korea
     date_start: '2021-11-17'
-    date_end: ''
+    date_end: '2022-02-28'
     
   - title: Clinical Research Assistant
     company: Holsen Lab
