@@ -29,6 +29,12 @@ experience:
     location: Kentucky, US (remote)
     date_start: '2021-01-01'
     date_end: ''
+    
+  - title: Product Application Manager
+    company: Colorful Minds Inc.
+    location: Seoul, Korea
+    date_start: '2022-03-01'
+    date_end: '2022-04-30'
         
   - title: Lab Manager
     company: Computational Clinical Science Laboratory
